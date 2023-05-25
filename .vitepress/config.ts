@@ -20,7 +20,7 @@ gtag('config', 'G-GKQS2KMLEV');
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Youtube', link: 'https://www.youtube.com/@sinerus6555/playlists' }
     ],
 
     sidebar: [
