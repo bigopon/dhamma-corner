@@ -17,6 +17,7 @@ gtag('config', 'G-GKQS2KMLEV');
     `],
   ],
   themeConfig: {
+    logo: 'dhamma-wheel.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },

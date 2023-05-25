@@ -8,15 +8,12 @@ hero:
   tagline: A small collection of teaching from venerable Ajahn Dtun
   actions:
     - theme: brand
-      text: Nigrodharama
+      text: Nigrodharama forest monastery
       link: ./nigrodharama/intro
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Nigrodharama
+    details: Dhamma teaching from ven. Ajahn Dtun during his stay at Nigrodharama Mar 2023
+    link: ./nigrodharama/13-03-2023
 ---
 
