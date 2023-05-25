@@ -3,16 +3,13 @@
 layout: home
 
 hero:
-  name: "dhamma-corner"
+  name: "Dhamma corner"
   text: "Svakhato bagavata dhammo"
   tagline: A small collection of teaching from venerable Ajahn Dtun
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: ./markdown-examples
-    - theme: alt
-      text: API Examples
-      link: ./api-examples
+      text: Nigrodharama
+      link: ./nigrodharama/intro
 
 features:
   - title: Feature A
