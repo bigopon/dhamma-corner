@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Nigrodharama forest monastery
-      link: ./nigrodharama/intro
+      link: ./nigrodharama
 
 features:
   - title: Nigrodharama
