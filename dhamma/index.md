@@ -8,6 +8,9 @@ hero:
   tagline: A small collection of teaching from venerable Ajahn Dtun
   actions:
     - theme: brand
+      text: About ajahn Dtun
+      link: ./ajahn-dtun
+    - theme: brand
       text: Nigrodharama forest monastery
       link: ./nigrodharama
     - theme: brand

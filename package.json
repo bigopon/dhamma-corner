@@ -19,9 +19,11 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.0.1",
+    "flexsearch": "^0.7.31",
     "http-server": "^14.1.1",
     "nodemon": "^2.0.22",
-    "vitepress": "^1.0.0-beta.1"
+    "vitepress": "^1.0.0-beta.1",
+    "vitepress-plugin-search": "^1.0.4-alpha.20"
   },
   "dependencies": {
     "vue": "^3.3.4"
