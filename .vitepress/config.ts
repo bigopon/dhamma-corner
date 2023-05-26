@@ -17,7 +17,7 @@ gtag('config', 'G-GKQS2KMLEV');
     `],
   ],
   themeConfig: {
-    logo: 'dhamma-wheel.svg',
+    logo: '/dhamma-wheel.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -26,8 +26,8 @@ gtag('config', 'G-GKQS2KMLEV');
 
     sidebar: [
       {
-        text: 'Nigrodharama',
-        // link: '/nigrodharama',
+        text: 'Nigrodharama forest monastery',
+        link: '/nigrodharama',
         items: [
           {
             text: '13 Mar 2023',
@@ -38,6 +38,14 @@ gtag('config', 'G-GKQS2KMLEV');
         //   // { text: 'Markdown Examples', link: '/markdown-examples' },
         //   // { text: 'Runtime API Examples', link: '/api-examples' }
         // ]
+      },
+      {
+        text: 'Questions & answers',
+        link: '/qa',
+        items: [
+          { text: 'Difference between magga and phala?', link: '/qa/difference-magga-phala' },
+          { text: 'When meditate focus on the light or the breath?', link: '/qa/focus-on-light-or-breath' },
+        ]
       }
     ],
 

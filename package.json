@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently -n build,server 'npm run build:watch' 'http-server .vitepress/dist --silent'",
+    "start": "concurrently -n build,server 'npm run build:watch' 'npm run server'",
+    "server": "echo 'http server' && http-server .vitepress/dist --silent",
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
-    "build:watch": "nodemon -e ts,tsx,md,svg,css --watch package.json --watch dhamma --watch .vitepress/config.ts --watch .vitepress/theme --exec 'npm run build'"
+    "build:watch": "nodemon -e ts,tsx,md,svg,css,vue --watch package.json --watch dhamma --watch .vitepress/config.ts --watch .vitepress/theme --exec 'npm run build'"
   },
   "keywords": [],
   "author": "",

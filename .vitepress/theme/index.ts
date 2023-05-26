@@ -4,6 +4,7 @@ import { h } from 'vue'
 import Theme from 'vitepress/theme'
 import './style.css'
 import BannerImage from './components/banner-img.vue';
+import Youtube from './components/youtube.vue';
 
 export default {
   ...Theme,
@@ -17,6 +18,7 @@ export default {
    */
   enhanceApp({ app, router, siteData }) {
     // ...
-    app.component('BannerImage', BannerImage)
+    app.component('BannerImage', BannerImage);
+    app.component('Youtube', Youtube);
   }
 }

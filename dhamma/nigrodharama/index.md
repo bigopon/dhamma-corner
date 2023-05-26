@@ -1,3 +1,12 @@
+---
+
+title: Nigrodharama forest monastery
+next:
+    text: 13th March 2023
+    link: ./13-03-2023
+
+---
+
 # Nigrodharama forest monastery
 
 <img width="100%" src="./assets/bg1.jpg" />
