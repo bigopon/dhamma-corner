@@ -7,7 +7,7 @@
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="max-width: 100%"
+    style="max-width: 100%; min-width: 350px;"
   />
 </template>
 
