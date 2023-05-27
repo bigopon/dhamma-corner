@@ -35,11 +35,11 @@ gtag('config', 'G-GKQS2KMLEV');
       {
         text: 'Nigrodharama forest monastery',
         link: '/nigrodharama',
+        collapsed: false,
         items: [
-          {
-            text: '13 Mar 2023',
-            link: '/nigrodharama/13-03-2023',
-          }
+          ...[13, 14, 15, 16, 17].map(/** @returns {import('vitepress').DefaultTheme.Config.SidebarItem} */day => ({
+            text: `${day} Mar 2023`, link: `/nigrodharama/${day}-03-2023`
+          })),
         ],
       },
       {

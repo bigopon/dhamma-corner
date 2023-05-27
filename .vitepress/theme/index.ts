@@ -5,6 +5,7 @@ import Theme from 'vitepress/theme'
 import './style.css'
 import BannerImage from './components/banner-img.vue';
 import Youtube from './components/youtube.vue';
+import AjahnDtun from './components/ajahn-dtun.vue';
 
 export default {
   ...Theme,
@@ -20,5 +21,6 @@ export default {
     // ...
     app.component('BannerImage', BannerImage);
     app.component('Youtube', Youtube);
+    app.component('AjahnDtun', AjahnDtun);
   }
 }
