@@ -1,0 +1,7 @@
+# What is the difference between magga and phala?
+
+<Youtube width="560" height="315" src="https://youtu.be/gHM5wYdjtMA" />
+
+**Question:** Can you please explain the difference between magga and phala?
+
+**Answer:** that the path to stream entry is comprised of those three factors of [Sīla, Samādhi, Paññā](../../terminology.md#1-sīla-samādhi-paññā). one sīla, samādhi, paññā one sealer has to be constant as a lay person must always be maintaining five precepts. On some occasions if you're feeling more determined you may keep eight precepts. novices they keep their ten, monks at 227 training rules and then one must be going developing concentration practicing meditation so to develop concentration. Once mindfulness and concentration have to be sustained to a certain degree so that mindfulness and wisdom when that arises it can reflect upon the body and the mind to see the impermanent nature of these things that is that is the part it's experienced as greed is reduced to to an extent anger is also weak and once again saying the stronger aspects of anger are banging that of ill will and vengeance they are completely removed from the mind anger arises in the form of dissatisfaction which is more easily let go of and the sense of attachment to the body or this identification of the cell that is also reduced to some extent these kind of things you can't bring the scriptures or anything in here to compare this kind of thing it's experiential you have to it's something you experience through something you experience through practice

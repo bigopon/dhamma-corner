@@ -7,7 +7,7 @@ export default defineConfig({
   description: "Svakhato bagavata dhammo",
   srcDir: 'dhamma',
   head: [
-    ['link', { rel: 'icon', href: 'dhamma-wheel.svg' }],
+    ['link', { rel: 'icon', href: '/dhamma-wheel.svg' }],
     ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-GKQS2KMLEV' }],
     ['script', {}, `
 window.dataLayer = window.dataLayer || [];
@@ -51,19 +51,22 @@ gtag('config', 'G-GKQS2KMLEV');
             text: 'General',
             collapsed: true,
             items: [
-              { text: 'Difference between magga and phala?', link: '/qa/difference-magga-phala' },
-              { text: 'When meditate focus on the light or the breath?', link: '/qa/focus-on-light-or-breath' },
+              { text: 'Difference between magga and phala?', link: '/qa/general/difference-magga-phala' },
             ]
           },
           {
             text: 'On meditation',
             collapsed: true,
             items: [
-              { text: 'Difference between magga and phala?', link: '/qa/difference-magga-phala' },
-              { text: 'When meditate focus on the light or the breath?', link: '/qa/focus-on-light-or-breath' },
+              { text: 'How does one know when to change meditation object?', link: '/qa/meditation/when-to-change-meditation-object' },
+              { text: 'When meditate focus on the light or the breath?', link: '/qa/meditation/focus-on-light-or-breath' },
             ]
           }
         ]
+      },
+      {
+        text: 'Terminology',
+        link: '/terminology'
       }
     ],
 
@@ -74,7 +77,6 @@ gtag('config', 'G-GKQS2KMLEV');
   },
   vite: { plugins: [
     SearchPlugin({
-    
       previewLength: 62,
       buttonLabel: "Search",
       placeholder: "Search docs",
