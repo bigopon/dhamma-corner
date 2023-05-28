@@ -22,7 +22,7 @@ gtag('config', 'G-GKQS2KMLEV');
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Youtube', link: 'https://www.youtube.com/@sinerus6555/playlists' },
+      { text: 'Sinerus Youtube', link: 'https://www.youtube.com/@sinerus6555/playlists' },
       { text: 'Official Facebook', link: 'https://www.facebook.com/watboonyawad' },
       { text: 'Official Youtube', link: 'https://www.youtube.com/@watboonyawad-official4548' }
     ],
@@ -71,7 +71,7 @@ gtag('config', 'G-GKQS2KMLEV');
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/bigopon/dhamma-corner' },
+      // { icon: 'github', link: 'https://github.com/bigopon/dhamma-corner' },
       { icon: 'youtube', link: 'https://www.youtube.com/@sinerus6555/playlists' }
     ]
   },
