@@ -37,7 +37,7 @@ gtag('config', 'G-GKQS2KMLEV');
         link: '/nigrodharama',
         collapsed: false,
         items: [
-          ...[13, 14, 15, 16, 17].map(/** @returns {import('vitepress').DefaultTheme.Config.SidebarItem} */day => ({
+          ...[13, 14, 15, 16, 17, 18, 19].map(/** @returns {import('vitepress').DefaultTheme.Config.SidebarItem} */day => ({
             text: `${day} Mar 2023`, link: `/nigrodharama/${day}-03-2023`
           })),
         ],

@@ -19,3 +19,5 @@ Find his teaching via the following links:
 - [15th March 2023](./nigrodharama/15-03-2023.md)
 - [16th March 2023](./nigrodharama/16-03-2023.md)
 - [17th March 2023](./nigrodharama/17-03-2023.md)
+- [18th March 2023](./nigrodharama/17-03-2023.md)
+- [19th March 2023 (establishment ceremony)](./nigrodharama/17-03-2023.md)
